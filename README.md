@@ -12,4 +12,4 @@ The goal of this project was to create a recommendation system that suggests per
     
 * Machine Learning algorithms: The project incorporates various machine learning algorithms, such as content-based filtering, to build the recommendation system. The algorithms are implemented using Python and popular libraries like Pandas and Scikit-learn.
 
-* 3. Data can be found at https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+* Data can be found at https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
