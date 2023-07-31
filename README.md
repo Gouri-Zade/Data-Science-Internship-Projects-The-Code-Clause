@@ -1,7 +1,7 @@
 # Data-Science-Internship-Projects-The-Code-Clause
 This repository contains the tasks that I have completed while working as a Data Science Intern at  [The Code Clause](https://internship.codeclause.com)
 
-## Task-1 : Movie Recommendation System
+## Movie Recommendation System
 ### Project Overview
 The goal of this project was to create a recommendation system that suggests personalized movie recommendations to users based on their preferences. The Movie Recommendation System utilizes content-based filtering, a popular approach in recommendation systems. The system analyzes large datasets to identify patterns and similarities between users and movies. 
 
