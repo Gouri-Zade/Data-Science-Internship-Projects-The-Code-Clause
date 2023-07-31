@@ -8,7 +8,7 @@ The goal of this project was to create a recommendation system that suggests per
 ### Key Features
 * Data preprocessing and cleaning: The code includes data preprocessing techniques to handle missing values, remove duplicates, and ensure data consistency. This ensures that the recommendation system is built on reliable and accurate data.
 
-* Details Extraction from Features to Transformation: The code contains the data extraction process from features and converts to one feature for recommendations.
+* Details Extraction from Features to Transformation: The code contains the data extraction process from features and converts them to one feature for recommendations.
     
 * Machine Learning algorithms: The project incorporates various machine learning algorithms, such as content-based filtering, to build the recommendation system. The algorithms are implemented using Python and popular libraries like Pandas and Scikit-learn.
 
